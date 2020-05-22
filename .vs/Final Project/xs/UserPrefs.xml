@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/collider_coffre_fin.cs">
+    <Files>
+      <File FileName="Assets/script test 1/testScript.cs" Line="42" Column="38" />
+      <File FileName="Assets/script test 1/collider_coffre.cs" Line="20" Column="2" />
+      <File FileName="Assets/collider_coffre_fin.cs" Line="12" Column="45" />
+      <File FileName="Assets/script test 1/CharacterMotor.cs" Line="45" Column="1" />
+      <File FileName="Assets/script test 1/onmousedrag.cs" Line="29" Column="2" />
+      <File FileName="Assets/script test 1/transfpos.cs" Line="8" Column="17" />
+      <File FileName="Assets/activate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Final Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="script test 1" expanded="True" />
+              <Node name="collider_coffre_fin.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3acd267e-0d9a-48ac-b340-ea88fc977bee" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
